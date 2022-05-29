@@ -9,7 +9,7 @@ AnudeepSng/AnudeepSng is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/103782634/170861451-8044d678-d99a-4688-b35f-61e716e373c7.png" alt="my banner"></a>
+<img src="https://user-images.githubusercontent.com/103782634/170861451-8044d678-d99a-4688-b35f-61e716e373c7.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
