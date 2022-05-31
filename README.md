@@ -26,7 +26,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.linkedin.com/in/anudeep-singh-240228237/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anudeep Singh | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/iam__prakharsingh/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="mailto:anudeepsingh1902@gmail.com?" subject="subject text"><img align="left" src="https://github.com/AnudeepSng/AnudeepSng/blob/main/gmail.png" alt="Anudeep Singh | Gmail" width="21px"/></a>
+<a href="mailto:singhanudeep1902@gmail.com?" subject="subject text"><img align="left" src="https://github.com/AnudeepSng/AnudeepSng/blob/main/gmail.png" alt="Anudeep Singh | Gmail" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
